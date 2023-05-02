@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Widget.Theme.Calendar.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+        <item name="calMonthColorCode1">"#FFFFFF"</item>
+        <item name="calMonthColorCode2">"#586D71"</item>
+    </style>
+</resources>
